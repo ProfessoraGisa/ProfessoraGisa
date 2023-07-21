@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá seja bem vindo ao repositório da Prof Gisa 👋
+**Professora Giseli Zanella Suhre**
+**giseli.zanella@escola.pr.gov.br**
 
+![Alura]([link-da-imagem](https://cursos.alura.com.br))
 <!--
 **ProfessoraGisa/ProfessoraGisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
